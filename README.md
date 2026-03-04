@@ -15,4 +15,4 @@ Homework 5:
 +-> I added a branch protection for main that requires a pull_request approval in order to push to main. This way I am only putting information I know is secure and correct on the main branch
 
 |
-+-> 
++-> I set up my CODEOWNERS file on my dev branch for Github to be for me only
